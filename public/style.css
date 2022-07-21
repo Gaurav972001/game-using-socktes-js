@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+   }
+   html {
+    height: 100%;
+  }
+   .board {
+    margin: auto;
+    width: 350px;
+   }
+   .board button {
+    border-width: thick !important;
+    border-color: blue !important;
+    background-color: antiquewhite;
+    color: blue;
+    outline: 4;
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 3em
+   }
+   /* .bg {
+    background-image: url("bg_img.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
